@@ -1,5 +1,7 @@
 # Static Site Generator Script
  run the Script.html file to generate 10 static web page using Bored api and a template given
+ 
+ the folder should be downloaded as it is or Image folder can be included in the same folder / as Images folder is required to render the images   Can run the Script.html file to generate required pages , i have set the explore Now - extension link to "#" could be changed later also . all the numbered files ( 1 to 10 ) are generated pages .
 
 Main Objectives:
 
